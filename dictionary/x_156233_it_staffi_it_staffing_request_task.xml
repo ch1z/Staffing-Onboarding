@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="IT Staffing Request Task" max_length="40" name="x_156233_it_staffi_it_staffing_request_task" sizeclass="4" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" default="3" label="Action needed" max_length="40" name="u_action_needed" read_only="true" type="string">
+            <choice>
+                <element label="Search for internal candidate" sequence="0" value="1"/>
+                <element label="Evaluate internal candidate" sequence="1" value="2"/>
+                <element label="Provide external candidate" sequence="2" value="3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Department" max_length="40" name="u_department" read_only="true" type="string"/>
+        <element label="Internal candidate name" max_length="32" name="u_internal_candidate_name" reference="sys_user" type="reference"/>
+        <element label="Supporting qualification" max_length="65536" name="u_internal_candidate_qualification" type="html"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Outcome" max_length="40" name="u_outcome" type="string">
+            <choice>
+                <element label="Internal candidate found" sequence="0" value="Internal candidate found"/>
+                <element label="No internal candidate found" sequence="1" value="No internal candidate found"/>
+                <element label="External candidate accepted" sequence="2" value="External candidate accepted"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Project name" max_length="40" name="u_project_name" read_only="true" type="string"/>
+        <element label="Requested by" max_length="32" name="u_requested_by" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Role" max_length="40" name="u_role" read_only="true" type="string">
+            <choice>
+                <element label="PM" sequence="0" value="PM"/>
+                <element label="Scheduler" sequence="1" value="Scheduler"/>
+                <element label="Developer" sequence="2" value="Developer"/>
+            </choice>
+        </element>
+    </element>
+</database>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>IT Staffing Request Task</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>IT Staffing Request Task</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">3237af45dd2003003399d83d70be02ce</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-10-22 05:29:57</sys_created_on>
+        <sys_id>afdbaf000f86030010c0409ce1050ef4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IT Staffing Request Task</sys_name>
+        <sys_package display_value="IT Staffing &amp; Onboarding" source="x_156233_it_staffi">89281b800f46030010c0409ce1050e8d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Staffing &amp; Onboarding">89281b800f46030010c0409ce1050e8d</sys_scope>
+        <sys_update_name>sys_wizard_answer_afdbaf000f86030010c0409ce1050ef4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-10-22 05:29:57</sys_updated_on>
+        <table/>
+        <target_url>x_156233_it_staffi_it_staffing_request_task.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

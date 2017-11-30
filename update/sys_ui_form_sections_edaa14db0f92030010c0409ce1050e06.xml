@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="edaa14db0f92030010c0409ce1050e06" sys_domain="global" table="x_156233_it_staffi_it_staffing_request" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-13 02:51:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e9aa54db0f92030010c0409ce1050e33</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_156233_it_staffi_it_staffing_request" name="x_156233_it_staffi_it_staffing_request" sys_domain="global" view="Default view">edaa14db0f92030010c0409ce1050e06</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_156233_it_staffi_it_staffing_request" sys_domain="global" view="Default view">98bb57080f46030010c0409ce1050e78</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-13 02:51:48</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-13 02:51:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a5aa54db0f92030010c0409ce1050e34</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_156233_it_staffi_it_staffing_request" name="x_156233_it_staffi_it_staffing_request" sys_domain="global" view="Default view">edaa14db0f92030010c0409ce1050e06</sys_ui_form>
+            <sys_ui_section caption="Project Details" display_value="Project Details" name="x_156233_it_staffi_it_staffing_request" sys_domain="global" view="Default view">edaa14db0f92030010c0409ce1050e05</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-13 02:51:48</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-13 02:57:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>17dbdcdb0f92030010c0409ce1050eee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_156233_it_staffi_it_staffing_request" name="x_156233_it_staffi_it_staffing_request" sys_domain="global" view="Default view">edaa14db0f92030010c0409ce1050e06</sys_ui_form>
+            <sys_ui_section caption="Requirements &amp; Qualifications" display_value="Requirements &amp; Qualifications" name="x_156233_it_staffi_it_staffing_request" sys_domain="global" view="Default view">5bdbdcdb0f92030010c0409ce1050eeb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-13 02:57:06</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-14 21:40:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cf866d7b0f1e030010c0409ce1050ef7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_156233_it_staffi_it_staffing_request" name="x_156233_it_staffi_it_staffing_request" sys_domain="global" view="Default view">edaa14db0f92030010c0409ce1050e06</sys_ui_form>
+            <sys_ui_section caption="Expedited" display_value="Expedited" name="x_156233_it_staffi_it_staffing_request" sys_domain="global" view="Default view">0b86e97b0f1e030010c0409ce1050e3c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-14 21:40:22</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_156233_it_staffi_it_staffing_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-13 02:51:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>edaa14db0f92030010c0409ce1050e06</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_156233_it_staffi_it_staffing_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="IT Staffing &amp; Onboarding" source="x_156233_it_staffi">89281b800f46030010c0409ce1050e8d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IT Staffing &amp; Onboarding">89281b800f46030010c0409ce1050e8d</sys_scope>
+            <sys_update_name>sys_ui_form_sections_edaa14db0f92030010c0409ce1050e06</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-13 02:51:48</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

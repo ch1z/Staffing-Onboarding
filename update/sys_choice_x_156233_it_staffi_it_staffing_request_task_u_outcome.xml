@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_outcome" table="x_156233_it_staffi_it_staffing_request_task" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_outcome</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Internal candidate found</label>
+            <language>en</language>
+            <name>x_156233_it_staffi_it_staffing_request_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-12 22:23:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>213d930f0f12030010c0409ce1050eb4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-12 22:23:23</sys_updated_on>
+            <value>Internal candidate found</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_outcome</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>No internal candidate found</label>
+            <language>en</language>
+            <name>x_156233_it_staffi_it_staffing_request_task</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-12 22:23:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>613d930f0f12030010c0409ce1050eb6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-12 22:23:23</sys_updated_on>
+            <value>No internal candidate found</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_outcome</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>External candidate accepted</label>
+            <language>en</language>
+            <name>x_156233_it_staffi_it_staffing_request_task</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-27 00:10:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>320c37e30f62030010c0409ce1050e44</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-27 00:10:45</sys_updated_on>
+            <value>External candidate accepted</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_outcome</element>
+            <name>x_156233_it_staffi_it_staffing_request_task</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-12 22:23:23</sys_created_on>
+            <sys_id>2d3d930f0f12030010c0409ce1050eb5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_outcome</sys_name>
+            <sys_package display_value="IT Staffing &amp; Onboarding" source="x_156233_it_staffi">89281b800f46030010c0409ce1050e8d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IT Staffing &amp; Onboarding">89281b800f46030010c0409ce1050e8d</sys_scope>
+            <sys_update_name>sys_choice_x_156233_it_staffi_it_staffing_request_task_u_outcome</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-12 22:23:23</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

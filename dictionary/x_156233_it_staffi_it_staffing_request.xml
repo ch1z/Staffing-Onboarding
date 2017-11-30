@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="IT Staffing Request" max_length="40" name="x_156233_it_staffi_it_staffing_request" sizeclass="3" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Department" mandatory="true" max_length="40" name="u_department" type="string"/>
+        <element label="Detailed job description" max_length="65536" name="u_detailed_job_description" type="html"/>
+        <element label="Justification" max_length="65536" name="u_exp_justification" type="html"/>
+        <element label="Internal candidate name" max_length="32" name="u_internal_candidate_name" read_only="true" reference="sys_user" type="reference"/>
+        <element label="Outcome" max_length="40" name="u_outcome" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Project name" mandatory="true" max_length="40" name="u_project_name" type="string"/>
+        <element label="Requested by" mandatory="true" max_length="32" name="u_reference_1" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Role" mandatory="true" max_length="40" name="u_role" type="string">
+            <choice>
+                <element label="PM" sequence="0" value="PM"/>
+                <element label="Scheduler" sequence="1" value="Scheduler"/>
+                <element label="Developer" sequence="2" value="Developer"/>
+            </choice>
+        </element>
+        <element label="Typical roles &amp; responsibilities" max_length="65536" name="u_typical_roles_responsibilities" type="html"/>
+        <element attributes="edge_encryption_enabled=true" label="Work order no." max_length="40" name="u_work_order_no" type="string"/>
+    </element>
+</database>

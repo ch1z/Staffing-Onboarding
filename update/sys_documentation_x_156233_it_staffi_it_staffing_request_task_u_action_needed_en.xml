@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_action_needed" label="Action needed" language="en" table="x_156233_it_staffi_it_staffing_request_task">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_action_needed</element>
+            <help/>
+            <hint/>
+            <label>Action needed</label>
+            <language>en</language>
+            <name>x_156233_it_staffi_it_staffing_request_task</name>
+            <plural>Action needed</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-22 06:05:49</sys_created_on>
+            <sys_id>8914b3440f86030010c0409ce1050e4c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Action needed</sys_name>
+            <sys_package display_value="IT Staffing &amp; Onboarding" source="x_156233_it_staffi">89281b800f46030010c0409ce1050e8d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IT Staffing &amp; Onboarding">89281b800f46030010c0409ce1050e8d</sys_scope>
+            <sys_update_name>sys_documentation_x_156233_it_staffi_it_staffing_request_task_u_action_needed_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-22 06:05:49</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

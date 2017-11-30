@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="4f6a636b0f22030010c0409ce1050eea" sys_domain="global" table="x_156233_it_staffi_it_staffing_candidate" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-26 22:53:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c36a636b0f22030010c0409ce1050eed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_156233_it_staffi_it_staffing_candidate" name="x_156233_it_staffi_it_staffing_candidate" sys_domain="global" view="Default view">4f6a636b0f22030010c0409ce1050eea</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_156233_it_staffi_it_staffing_candidate" sys_domain="global" view="Default view">2cd1f29c0f82030010c0409ce1050e70</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-26 22:53:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-26 22:53:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cf6a636b0f22030010c0409ce1050eed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_156233_it_staffi_it_staffing_candidate" name="x_156233_it_staffi_it_staffing_candidate" sys_domain="global" view="Default view">4f6a636b0f22030010c0409ce1050eea</sys_ui_form>
+            <sys_ui_section caption="Candidate Qualification" display_value="Candidate Qualification" name="x_156233_it_staffi_it_staffing_candidate" sys_domain="global" view="Default view">836a636b0f22030010c0409ce1050ee9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-26 22:53:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-26 22:53:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0b6a636b0f22030010c0409ce1050ef1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_156233_it_staffi_it_staffing_candidate" name="x_156233_it_staffi_it_staffing_candidate" sys_domain="global" view="Default view">4f6a636b0f22030010c0409ce1050eea</sys_ui_form>
+            <sys_ui_section caption="Rejection" display_value="Rejection" name="x_156233_it_staffi_it_staffing_candidate" sys_domain="global" view="Default view">036a636b0f22030010c0409ce1050eea</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-26 22:53:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_156233_it_staffi_it_staffing_candidate</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-26 22:53:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4f6a636b0f22030010c0409ce1050eea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_156233_it_staffi_it_staffing_candidate</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="IT Staffing &amp; Onboarding" source="x_156233_it_staffi">89281b800f46030010c0409ce1050e8d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IT Staffing &amp; Onboarding">89281b800f46030010c0409ce1050e8d</sys_scope>
+            <sys_update_name>sys_ui_form_sections_4f6a636b0f22030010c0409ce1050eea</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-26 22:53:45</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

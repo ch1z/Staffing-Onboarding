@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="IT Staffing Candidate" max_length="40" name="x_156233_it_staffi_it_staffing_candidate" sizeclass="6" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="First name" max_length="40" name="u_cand_first_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Last name" max_length="40" name="u_cand_last_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Outcome" max_length="40" name="u_outcome" type="string">
+            <choice>
+                <element label="Rejected" sequence="0" value="Rejected"/>
+                <element label="Accepted" sequence="1" value="Accepted"/>
+                <element label="Active File" sequence="2" value="Active File"/>
+            </choice>
+        </element>
+        <element label="Rejection information" max_length="65536" name="u_rejection_info" type="html"/>
+        <element label="Summary of qualifications" max_length="65536" name="u_summary_of_qualifications" type="html"/>
+    </element>
+</database>

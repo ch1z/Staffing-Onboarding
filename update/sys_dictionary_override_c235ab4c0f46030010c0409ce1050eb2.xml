@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_dictionary_override">
+    <sys_dictionary_override action="INSERT_OR_UPDATE">
+        <attributes/>
+        <attributes_override>false</attributes_override>
+        <base_table>task</base_table>
+        <calculation/>
+        <calculation_override>false</calculation_override>
+        <default_value>0</default_value>
+        <default_value_override>true</default_value_override>
+        <dependent/>
+        <dependent_override>false</dependent_override>
+        <display_override>false</display_override>
+        <element>state</element>
+        <mandatory>false</mandatory>
+        <mandatory_override>false</mandatory_override>
+        <name>x_156233_it_staffi_it_staffing_request</name>
+        <read_only>true</read_only>
+        <read_only_override>true</read_only_override>
+        <reference_qual/>
+        <reference_qual_override>false</reference_qual_override>
+        <sys_class_name>sys_dictionary_override</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-10-22 05:00:54</sys_created_on>
+        <sys_id>c235ab4c0f46030010c0409ce1050eb2</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>state</sys_name>
+        <sys_package display_value="IT Staffing &amp; Onboarding" source="x_156233_it_staffi">89281b800f46030010c0409ce1050e8d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Staffing &amp; Onboarding">89281b800f46030010c0409ce1050e8d</sys_scope>
+        <sys_update_name>sys_dictionary_override_c235ab4c0f46030010c0409ce1050eb2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-10-22 16:58:09</sys_updated_on>
+    </sys_dictionary_override>
+</record_update>
